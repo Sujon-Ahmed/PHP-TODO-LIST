@@ -23,15 +23,17 @@ Open your database web server then create a database name in it <code>db_task</c
 Open your any kind of text editor(notepadd++, etc..). Then just <b>copy/paste</b> the code below then name it <b>conn.php</b>.
 
 
-<code>
+
 <pre>
+<code>
 $conn = new mysqli("localhost", "root", "", "db_task");
 
 if(!$conn){
     die("Error: Cannot connect to the database");
 }
-</pre>
 </code>
+</pre>
+
 <b>Note: Start PHP Opening and Closing tag</b>
 
 ## Creating The Interface
