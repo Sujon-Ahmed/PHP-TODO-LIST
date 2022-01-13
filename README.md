@@ -8,4 +8,6 @@ In this tutorial we will create a <b>Simple To-Do List App</b> using <b>PHP</b>.
 ### So Let's do the coding...
 ## Getting started:
 
-First you have to download & install XAMPP or any local server that run PHP scripts. Here's the link for XAMPP server <a href="https://www.apachefriends.org/index.html">https://www.apachefriends.org/index.html</a>.
+First you have to download & install XAMPP or any local server that run PHP scripts. Here's the link for XAMPP server <a target="_blank" href="https://www.apachefriends.org/index.html">https://www.apachefriends.org/index.html</a>.
+
+And this is the link for the bootstrap that has been used for the layout <a target="_blank" href="https://getbootstrap.com/">https://getbootstrap.com/</a>.
