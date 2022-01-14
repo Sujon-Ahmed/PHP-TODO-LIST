@@ -84,7 +84,7 @@ if($_GET['task_id']){
 </pre>
 
 
-There you have it we successfully created a Simple To-Do List <b>App</b> using <b>PHP</b>. I hope that this simple tutorial helps you to what you are looking for. For more updates and tutorials just kindly visit this site.
+There you have it we successfully created a Simple To-Do List <b>App</b> using <b>PHP</b>. I hope that this simple project helps you to what you are looking for. For more updates and projects just kindly visit my profile. 
 <a target="_blank" href="https://github.com/Sujon-Ahmed">Sujon-Ahmed</a>
 
 <b>Enjoy Coding!!!</b>
