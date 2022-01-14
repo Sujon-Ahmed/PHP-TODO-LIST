@@ -14,7 +14,7 @@ And this is the link for the bootstrap that has been used for the layout <a targ
 
 ## Creating Database
 
-Open your database web server then create a database name in it <code>db_task</code>. After that, click <code style="color="red">Import</code> then locate the database file inside the folder of the application then click ok.
+Open your database web server then create a database name in it <code>db_task</code>. After that, click <code>Import</code> then locate the database file inside the folder of the application then click ok.
 
 
 ![](images/localhost.png)
